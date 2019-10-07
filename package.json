@@ -1,8 +1,12 @@
 {
   "name": "rob-async-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "calculator with async module",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robithritz/rob-async-calculator.git"
+  },
   "scripts": {
     "test": "mocha",
     "start": "node index.js"
